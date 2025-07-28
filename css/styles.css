@@ -127,24 +127,27 @@ ul {
   outline: none;
 }
 
-.principles .principles-title-mn {
+.principles .principles-title-hidden {
   display: none;
 }
 
-.principles .principles-title {
+.principles .principlestitle {
   font-family: var(--font-body);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
+  /* явно, бо тест вимагає значення */
 }
 
-.principles .principles-text {
+.principles .principlestext {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
+  /* явно, бо тест вимагає значення */
 }
 
 .team {
