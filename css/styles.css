@@ -107,14 +107,16 @@ ul {
   text-decoration: underline;
 }
 
-.page-address {}
+.page-address {
+  font-style: normal;
+}
 
 .address-link {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-  font-style: normal;
+  /* font-style: normal; */
 }
 
 .address-link:hover {
