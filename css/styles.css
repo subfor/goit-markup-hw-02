@@ -37,10 +37,6 @@ h3 {
 
 body {
   font-family: var(--font-body);
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: var(--slate);
   background-color: var(--white);
 }
@@ -151,6 +147,22 @@ ul {
 
 .principles .principles-title {
   display: none;
+}
+
+.principles .principles-title-h3 {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
+.principles .principles-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .team {
