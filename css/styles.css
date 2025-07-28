@@ -127,11 +127,11 @@ ul {
   outline: none;
 }
 
-.principles .principles-title {
+.principles .principles-title-mn {
   display: none;
 }
 
-.principles .principles-title-mn {
+.principles .principles-title {
   font-family: var(--font-body);
   font-weight: 500;
   font-size: 20px;
