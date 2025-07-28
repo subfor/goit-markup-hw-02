@@ -122,7 +122,6 @@ ul {
 .btn:hover,
 .btn:focus {
   background: var(--ocean);
-  outline: none;
 }
 
 .principles .principles-title-hidden {
