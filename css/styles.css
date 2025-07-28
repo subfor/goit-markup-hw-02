@@ -191,3 +191,11 @@ ul {
   background: var(--navy-blue);
   color: var(--cloud);
 }
+
+.page-footer .footer-text {
+  /* font-family: var(--font-body); */
+  /* font-weight: 400; */
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  letter-spacing: var(--letter-spacing-sm);
+}
