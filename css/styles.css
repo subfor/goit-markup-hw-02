@@ -17,6 +17,7 @@
   --font-logo: 'Raleway', sans-serif;
 
   /* Font Sizes */
+  --font-size-logo: 18px;
   --font-size-base: 16px;
   --font-size-md: 20px;
   --font-size-lg: 36px;
@@ -58,7 +59,7 @@ ul {
   font-family: var(--font-logo);
   text-transform: uppercase;
   font-weight: 700;
-  font-size: var(--font-size-base);
+  font-size: var(--font-size-logo);
   line-height: 1.17;
   letter-spacing: var(--letter-spacing-md);
 }
