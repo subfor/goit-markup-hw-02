@@ -187,7 +187,6 @@ ul {
   flex-grow: 1;
   border-bottom: 1px solid var(--slate);
 }
-}
 
 .portfolio {
   background-color: var(--white);
