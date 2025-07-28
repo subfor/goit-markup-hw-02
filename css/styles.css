@@ -149,6 +149,10 @@ ul {
   outline: none;
 }
 
+.principles .principles-title {
+  display: none;
+}
+
 .team {
   background: var(--cloud);
   text-align: center;
