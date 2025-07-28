@@ -1,33 +1,33 @@
-:root {
-  --iris: #4d5ae5;
-  --ocean: #404bbf;
-  --navy-blue: #2e2f42;
-  --green: #31d0aa;
-  --slate: #434455;
-  --light-slate: #8e8f99;
-  --cornflower: #e7e9fc;
-  --cloud: #f4f4fd;
-  --navy-blue-modal: rgba(46, 47, 66, 0.4);
-  --grey: rgba(46, 47, 66, 0.7);
-  --white: #fff;
-  --dairy: #fcfcfc;
-  --font-body: 'Roboto', sans-serif;
-  --font-logo: 'Raleway', sans-serif;
-  --font-size-logo: 18px;
-  --font-size-base: 16px;
-  --font-size-md: 20px;
-  --font-size-lg: 36px;
-  --font-size-xl: 56px;
-  --line-height-base: 1.5;
-  --line-height-md: 1.2;
-  --line-height-lg: 1.11;
-  --line-height-xl: 1.07;
-  --letter-spacing-sm: 0.02em;
-  --letter-spacing-md: 0.03em;
-  --letter-spacing-lg: 0.04em;
-  --spacing-xs: 16px;
-  --spacing-sm: 32px;
-}
+/* :root { */
+/*   --iris: #4d5ae5; */
+/*   --ocean: #404bbf; */
+/*   --navy-blue: #2e2f42; */
+/*   --green: #31d0aa; */
+/*   --slate: #434455; */
+/*   --light-slate: #8e8f99; */
+/*   --cornflower: #e7e9fc; */
+/*   --cloud: #f4f4fd; */
+/*   --navy-blue-modal: rgba(46, 47, 66, 0.4); */
+/*   --grey: rgba(46, 47, 66, 0.7); */
+/*   --white: #fff; */
+/*   --dairy: #fcfcfc; */
+/*   --font-body: 'Roboto', sans-serif; */
+/*   --font-logo: 'Raleway', sans-serif; */
+/*   --font-size-logo: 18px; */
+/*   --font-size-base: 16px; */
+/*   --font-size-md: 20px; */
+/*   --font-size-lg: 36px; */
+/*   --font-size-xl: 56px; */
+/*   --line-height-base: 1.5; */
+/*   --line-height-md: 1.2; */
+/*   --line-height-lg: 1.11; */
+/*   --line-height-xl: 1.07; */
+/*   --letter-spacing-sm: 0.02em; */
+/*   --letter-spacing-md: 0.03em; */
+/*   --letter-spacing-lg: 0.04em; */
+/*   --spacing-xs: 16px; */
+/*   --spacing-sm: 32px; */
+/* } */
 
 body {
   font-family: var(--font-body);
