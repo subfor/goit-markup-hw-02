@@ -17,15 +17,6 @@
   --font-logo: 'Raleway', sans-serif;
 }
 
-h2 {
-  font-family: var(--font-body);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-}
-
 h3 {
   font-family: var(--font-body);
   font-weight: 500;
@@ -34,6 +25,15 @@ h3 {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
 }
+
+/* h2 { */
+/*   font-family: var(--font-body); */
+/*   font-weight: 700; */
+/*   font-size: 36px; */
+/*   line-height: 1.11; */
+/*   letter-spacing: 0.02em; */
+/*   color: var(--navy-blue); */
+/* } */
 
 body {
   font-family: var(--font-body);
@@ -117,7 +117,6 @@ ul {
 
 .hero {
   background: var(--navy-blue);
-  text-align: center;
 }
 
 .hero .hero-title {
@@ -155,20 +154,24 @@ ul {
 
 .team {
   background: var(--cloud);
-  text-align: center;
+}
+
+.team .team-title {
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
 }
 
 .team-card {
   background: var(--white);
 }
 
-.portfolio {
-  text-align: center;
-}
+.portfolio {}
 
-.project-card {
-  text-align: left;
-}
+.project-card {}
 
 .page-footer {
   background: var(--navy-blue);
