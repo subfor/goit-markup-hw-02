@@ -17,24 +17,6 @@
   --font-logo: 'Raleway', sans-serif;
 }
 
-h3 {
-  font-family: var(--font-body);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--navy-blue);
-}
-
-/* h2 { */
-/*   font-family: var(--font-body); */
-/*   font-weight: 700; */
-/*   font-size: 36px; */
-/*   line-height: 1.11; */
-/*   letter-spacing: 0.02em; */
-/*   color: var(--navy-blue); */
-/* } */
-
 body {
   font-family: var(--font-body);
   color: var(--slate);
