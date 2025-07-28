@@ -1,5 +1,4 @@
 :root {
-  /* Colors */
   --iris: #4d5ae5;
   --ocean: #404bbf;
   --navy-blue: #2e2f42;
@@ -12,29 +11,20 @@
   --grey: rgba(46, 47, 66, 0.7);
   --white: #fff;
   --dairy: #fcfcfc;
-  /* Fonts */
   --font-body: 'Roboto', sans-serif;
   --font-logo: 'Raleway', sans-serif;
-
-  /* Font Sizes */
   --font-size-logo: 18px;
   --font-size-base: 16px;
   --font-size-md: 20px;
   --font-size-lg: 36px;
   --font-size-xl: 56px;
-
-  /* Line Heights */
   --line-height-base: 1.5;
   --line-height-md: 1.2;
   --line-height-lg: 1.11;
   --line-height-xl: 1.07;
-
-  /* Letter Spacing */
   --letter-spacing-sm: 0.02em;
   --letter-spacing-md: 0.03em;
   --letter-spacing-lg: 0.04em;
-
-  /* Spacing */
   --spacing-xs: 16px;
   --spacing-sm: 32px;
 }
@@ -179,8 +169,6 @@ ul {
 .team-card,
 .project-card {
   background-color: var(--white);
-  text-align: center;
-  padding: var(--spacing-sm) 0;
 }
 
 .portfolio {
@@ -193,9 +181,8 @@ ul {
 }
 
 .page-footer .footer-text {
-  /* font-family: var(--font-body); */
-  /* font-weight: 400; */
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
   letter-spacing: var(--letter-spacing-sm);
+  color: var(--cloud);
 }
