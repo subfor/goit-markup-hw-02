@@ -126,6 +126,7 @@ ul {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: var(--white);
+  text-align: center;
 }
 
 .btn {
