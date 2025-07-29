@@ -124,9 +124,9 @@ ul {
   background: var(--ocean);
 }
 
-.principles .principles-title-hidden {
-  display: none;
-}
+/* .principles .principles-title-hidden { */
+/*   display: none; */
+/* } */
 
 .principles .principlestitle,
 .team-card-title,
